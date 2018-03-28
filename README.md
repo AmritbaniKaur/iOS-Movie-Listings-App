@@ -1,6 +1,6 @@
 # iOS Movie Listings App
 
-==================================================================================
+----------------------------------------------------------------------------------
 
 This app uses UIViews, UITableViews, NavigationController and other Swift MVC features to show all the movies present in the TMDB.
 
@@ -56,7 +56,7 @@ Movie list/movie detail
 
 Must be Decodable (No need to parse JSON data)
 
-==================================================================================
+----------------------------------------------------------------------------------
 
 P.S.: You will have to:
 
