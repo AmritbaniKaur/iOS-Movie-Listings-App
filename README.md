@@ -1,7 +1,5 @@
 # iOS Movie Listings App
 
-----------------------------------------------------------------------------------
-
 This app uses UIViews, UITableViews, NavigationController and other Swift MVC features to show all the movies present in the TMDB.
 
 It connects with the TMDB dev API and shows the movie details with posters and pictures on the go.
@@ -77,4 +75,5 @@ Get Upcoming : http://api.themoviedb.org/3/movie/upcoming?api_key=<<api_key>>
 Each movie entry has a field called “poster_path” or , which is where you should download the picture for the movies
 
 URI: http://image.tmdb.org/t/p/<<size>>/<<poster_path>>"; // size : "w92", "w154", "w185", "w342", "w500", "w780", or "original".
-
+	
+----------------------------------------------------------------------------------
